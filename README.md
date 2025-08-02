@@ -1,6 +1,6 @@
 # Resume
 
-# Hi there, I'm Chetan Ngavali 👋
+# Hi there, I'm Chetan Gavali 👋
 
 🎓 2nd Year B.Tech Computer Engineering Student at K. K. Wagh Institude Of Engineering College.  
 💻 Front End Developer | Passionate about Ethical Hacking.
